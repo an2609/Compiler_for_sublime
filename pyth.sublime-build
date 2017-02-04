@@ -2,7 +2,7 @@
   "cmd": ["python \"$file_name\""],
   "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
   "working_dir": "${file_path}",
-  "selector": "source.python",
+  "selector": "source.py",
 
   "variants":
   [
